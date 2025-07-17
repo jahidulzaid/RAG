@@ -13,6 +13,7 @@ with open('dept-notices.txt', 'r') as file:
 EMBEDDING_MODEL = 'hf.co/CompendiumLabs/bge-base-en-v1.5-gguf'
 LANGUAGE_MODEL = 'hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF'
 
+
 # Each element in the VECTOR_DB will be a tuple (chunk, embedding)
 # The embedding is a list of floats, for example: [0.1, 0.04, -0.34, 0.21, ...]
 VECTOR_DB = []
@@ -48,7 +49,7 @@ def retrieve(query, top_n=3):
 
 
 '''
-1: one input, one output
+one input, one output
 '''
 
 
