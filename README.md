@@ -32,4 +32,4 @@ This implements a minimalist Retrieval-Augmented Generation (RAG) pipeline in Py
   ```bash
   python Basic_RAG.py
 
-  ### You need to run those in an env ( Conda Suggested)
+### You need to run those in an env ( Conda Suggested)
