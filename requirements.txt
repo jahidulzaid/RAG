@@ -1,0 +1,25 @@
+# Core dependencies
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+openai
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers>=2.2.2
+huggingface-hub>=0.34.0,<1.0
+
+# Document processing
+pypdf
+unstructured
+python-docx
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Utilities
+typing-extensions
