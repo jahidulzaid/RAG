@@ -1,0 +1,25 @@
+2025-11-24 04:27:31,133 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-24 04:27:31,133 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-24 04:27:34,594 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-24 04:27:34,620 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-24 04:27:34,627 - src.utils.vectorstore_manager - INFO - Loaded existing vectorstore from C:\Users\ij4hidu1\Videos\j4\RAG\vectorstore
+2025-11-24 04:27:43,524 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:27:43,537 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:27:44,111 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 04:27:50,842 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:27:50,850 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:27:51,184 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 04:30:44,270 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-24 04:30:44,270 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-24 04:30:47,801 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-11-24 04:30:47,816 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-11-24 04:30:47,816 - src.utils.vectorstore_manager - INFO - Loaded existing vectorstore from C:\Users\ij4hidu1\Videos\j4\RAG\vectorstore
+2025-11-24 04:31:02,549 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:02,560 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:03,096 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 04:31:08,802 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:08,811 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:09,189 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-24 04:31:15,480 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:15,488 - src.utils.vectorstore_manager - INFO - Found 3 relevant documents for query
+2025-11-24 04:31:15,731 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
