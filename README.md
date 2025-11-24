@@ -2,6 +2,8 @@
 
 A professional Retrieval Augmented Generation (RAG) application built with LangChain and GROQ API. Features both a **FastAPI web interface** and a **CLI** for document-based Q&A with conversation memory.
 
+![RAG Application UI](frontend/img/image.png)
+
 ## 🌟 Features
 
 - **🌐 Web Interface**: Modern, responsive chat UI with real-time interaction
