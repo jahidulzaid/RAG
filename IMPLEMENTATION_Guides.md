@@ -19,10 +19,9 @@ Your `.env` already has the GROQ_API_KEY set ✅
 ### 4. Access the App
 Open browser: **http://localhost:8000**
 
-
 ```
 
-## 🎯 Available Endpoints
+## 🎯 Available Endpoint
 
 ### Web UI
 - `GET /` - Chat interface

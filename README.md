@@ -76,7 +76,7 @@ A professional Retrieval Augmented Generation (RAG) application built with LangC
 
 ### Option 2: Command Line Interface
 
-### 1. Ingest Documents
+### 1. Ingest Documents dir
 
 Ingest documents from the data directory:
 ```powershell
